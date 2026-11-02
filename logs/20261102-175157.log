@@ -1,0 +1,6 @@
+INFO    : Staging deployment according to strategy default_target
+INFO    : Since no target was supplied, we will use "web".
+
+INFO    : Staging latest build located in `C:\Users\stant\Desktop\OneDrive\OneDrive - Wartburg College\Desktop\Python\MA 251-252\new-pretext-project\output\web` at `C:\Users\stant\Desktop\OneDrive\OneDrive - Wartburg College\Desktop\Python\MA 251-252\new-pretext-project\output\stage`.
+INFO    : 
+INFO    : Initializing project with Git.
